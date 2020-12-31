@@ -88,7 +88,7 @@ svg {
     left:0;
     right:0;
     margin:0 auto;
-    z-index:200;
+   
 }
 
 .btn_music{
@@ -125,7 +125,7 @@ svg {
 @media only screen and (max-width:320px){
     #champagne{
         
-        margin: 40% 35% auto;
+        margin: 40% 40% auto;
     }
 }
 
@@ -133,13 +133,14 @@ svg {
 @media only screen and (max-width:750px){
         #champagne{
           
-            margin: 40% 35% auto;
+            margin: 40% 45% auto;
         }
 }
 
-@media only screen and (min-width: 799px){
+@media only screen and (min-width: 899px){
     #champagne{
         width:250px;
         height: 230px;
+        margin: 40% 50% auto;
     }
 }

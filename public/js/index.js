@@ -7,7 +7,7 @@
                             sound:true, // sound effects
                             opacity:0.55,
                             width: '90%',
-                            height: '10%'
+                            height: '50%'
                         }).play();   
                         
                     });
@@ -16,5 +16,7 @@
                         $(this).hide();
                         $('.fa-play-circle').fadeIn();
                         $('#myMusic')[0].pause();
+                        $("#container").fireworks().pause();
                     });
+                    
 });
