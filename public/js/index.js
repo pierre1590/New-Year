@@ -8,12 +8,7 @@
                             opacity:0.55,
                             width: '90%',
                             height: '10%'
-                        }).play();
-                      
-                       
-                        
-
-                        
+                        }).play();   
                         
                     });
 
