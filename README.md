@@ -1,4 +1,4 @@
-<img src='https://i.ibb.co/jzXnXgQ/New-Year01.png' width='350px' height='350px'>
+<img src='./img/new_year.jpg' width='350px' height='350px'>
 
 Greeting card for the new year.
 
